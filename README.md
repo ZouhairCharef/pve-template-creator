@@ -24,13 +24,13 @@ This shell script automates the process of creating a new Proxmox VM from a JSON
 With `curl`:
 
 ```bash
-curl -O https://raw.githubusercontent.com/Tomyail/pve-template-creator/main/create-template.sh
+curl -O https://raw.githubusercontent.com/ZouhairCharef/pve-template-creator/main/create-template.sh
 ```
 
 With `wget`:
 
 ```bash
-wget https://raw.githubusercontent.com/Tomyail/pve-template-creator/main/create-template.sh
+wget https://raw.githubusercontent.com/ZouhairCharef/pve-template-creator/main/create-template.sh
 ```
 
 2. Make the script executable.

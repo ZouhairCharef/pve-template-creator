@@ -35,7 +35,7 @@ for cmd in wget jq qm mkpasswd; do
 done
 
 # Remote JSON file URL
-JSON_URL="https://raw.githubusercontent.com/Tomyail/pve-template-creator/main/image-list.json"
+JSON_URL="https://raw.githubusercontent.com/ZouhairCharef/pve-template-creator/main/image-list.json"
 
 # Download remote JSON file
 wget -q "$JSON_URL" -O image-list.json --show-progress
