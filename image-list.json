@@ -24,15 +24,15 @@
     "checksum_type": "sha512sum"
   },
   {
-    "name": "rocky-9",
-    "path": "https://dl.rockylinux.org/pub/rocky/9/images/x86_64/Rocky-Cloud-Base-9-latest.x86_64.qcow2",
-    "checksum": "https://dl.rockylinux.org/pub/rocky/9/images/x86_64/CHECKSUM",
+    "name": "rocky-8",
+    "path": "https://download.rockylinux.org/pub/rocky/8/isos/x86_64/Rocky-8.10-x86_64-minimal.iso",
+    "checksum": "https://download.rockylinux.org/pub/rocky/8/isos/x86_64/CHECKSUM",
     "checksum_type": "sha256sum"
   },
   {
-    "name": "rocky-8",
-    "path": "https://dl.rockylinux.org/pub/rocky/8/images/x86_64/Rocky-Cloud-Base-8-latest.x86_64.qcow2",
-    "checksum": "https://dl.rockylinux.org/pub/rocky/8/images/x86_64/CHECKSUM",
+    "name": "rocky-9",
+    "path": "https://download.rockylinux.org/pub/rocky/9/isos/x86_64/Rocky-9.5-x86_64-minimal.iso",
+    "checksum": "https://download.rockylinux.org/pub/rocky/9/isos/x86_64/CHECKSUM",
     "checksum_type": "sha256sum"
   },
   {
